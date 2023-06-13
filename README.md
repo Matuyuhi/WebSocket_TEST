@@ -1,2 +1,2 @@
-# WebSocket_TEST
-### express.jsとswiftを使ったiphoneアプリの通信テスト
+# WebSocket Test
+### express.jsとswiftを使ったiphoneアプリのwebsocketの通信テスト
