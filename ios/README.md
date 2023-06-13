@@ -1,0 +1,1 @@
+UIKitの最低限のwebsocketで通信できるアプリ
